@@ -1,6 +1,6 @@
-package com.example.polls.repository;
+package com.example.Sondage.repository;
 
-import com.example.polls.model.User;
+import com.example.Sondage.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.List;
